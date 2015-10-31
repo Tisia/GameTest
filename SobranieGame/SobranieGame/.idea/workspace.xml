@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="MyGame" targetName="MyGame" />
+      <config projectName="MyGame" targetName="MyGame_CORE_PRE_BUILD" />
+      <config projectName="MyGame" targetName="unzip" />
+      <config projectName="MyGame" targetName="cocos2d" />
+      <config projectName="MyGame" targetName="flatbuffers" />
+      <config projectName="MyGame" targetName="xxhash" />
+      <config projectName="MyGame" targetName="MyGame_PRE_BUILD" />
+      <config projectName="MyGame" targetName="tinyxml2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d4172dd-ba7c-4269-a349-84d298edb72b" name="Default" comment="3">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/BuildConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxAccelerometer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxActivity$Cocos2dxEGLConfigChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxBitmap$TextProperty.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxBitmap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxEditBoxDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxEditBoxDialog$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxEditBoxDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxEditText.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxHandler$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxHandler$DialogMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxHelper$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxHttpURLConnection.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxLocalStorage$DBOpenHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxLocalStorage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxLuaJavaBridge.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxMusic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxRenderer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxSound$OnLoadCompletedListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxSound$SoundInfoForLoadedCompleted.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxSound.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxTextInputWraper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxTypefaces.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoHelper$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoHelper$VideoEventRunnable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoHelper$VideoHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoView$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoView$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoView$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoView$4$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoView$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoView$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoView$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoView$OnVideoEventListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxVideoView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebView$Cocos2dxWebViewClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/Cocos2dxWebViewHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/com/chukong/cocosplay/client/CocosPlayClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/GameControllerAdapter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/GameControllerAdapter$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/GameControllerAdapter$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/GameControllerAdapter$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/GameControllerAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/GameControllerDelegate$ControllerEventListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/GameControllerDelegate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes/org/cocos2dx/lib/GameControllerUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/AndroidManifest.xml.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/gen/org/cocos2dx/lib/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/gen/R.java.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/build.prop" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/bin/proguard.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/Classes/AppDelegate.o" afterPath="$PROJECT_DIR$/proj.android/obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/Classes/AppDelegate.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/Classes/Part.o" afterPath="$PROJECT_DIR$/proj.android/obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/Classes/Part.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/bin/Puzzle-debug-unaligned.apk" afterPath="$PROJECT_DIR$/proj.android/bin/Puzzle-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/debug/android/Puzzle-debug.apk" afterPath="$PROJECT_DIR$/bin/debug/android/Puzzle-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/bin/Puzzle-debug.apk" afterPath="$PROJECT_DIR$/proj.android/bin/Puzzle-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/bin/Puzzle.ap_" afterPath="$PROJECT_DIR$/proj.android/bin/Puzzle.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/Classes/Scene.o" afterPath="$PROJECT_DIR$/proj.android/obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/Classes/Scene.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/bin/dexedLibs/classes-100652ccb3d15bc414b96d99121d6ae7.jar" afterPath="$PROJECT_DIR$/proj.android/bin/dexedLibs/classes-100652ccb3d15bc414b96d99121d6ae7.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/libs/armeabi/libcocos2dcpp.so" afterPath="$PROJECT_DIR$/proj.android/libs/armeabi/libcocos2dcpp.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/obj/local/armeabi/libcocos2dcpp.so" afterPath="$PROJECT_DIR$/proj.android/obj/local/armeabi/libcocos2dcpp.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.android/.classpath" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.android/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/googleplay/proj.android/.classpath" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/googleplay/proj.android/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/.classpath" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/umeng/proj.android/.classpath" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/umeng/proj.android/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/.project" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/.project" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/AUTHORS" afterPath="$PROJECT_DIR$/cocos2d/plugin/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/admob/proj.android/src/org/cocos2dx/plugin/AdsAdmob.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/admob/proj.android/src/org/cocos2dx/plugin/AdsAdmob.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.ios/AdsFlurry.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.ios/AdsFlurry.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.android/src/org/cocos2dx/plugin/AdsFlurry.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.android/src/org/cocos2dx/plugin/AdsFlurry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.ios/AdsFlurry.m" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.ios/AdsFlurry.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/AdsWrapper.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/AdsWrapper.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/AdsWrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/AdsWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/AdsWrapper.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/AdsWrapper.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/AgentManager.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/AgentManager.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/AgentManager.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/AgentManager.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/AlixId.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/AlixId.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.ios/AnalyticsFlurry.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.ios/AnalyticsFlurry.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.android/src/org/cocos2dx/plugin/AnalyticsFlurry.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.android/src/org/cocos2dx/plugin/AnalyticsFlurry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.ios/AnalyticsFlurry.m" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/flurry/proj.ios/AnalyticsFlurry.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/umeng/proj.ios/AnalyticsUmeng.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/umeng/proj.ios/AnalyticsUmeng.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/umeng/proj.android/src/org/cocos2dx/plugin/AnalyticsUmeng.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/umeng/proj.android/src/org/cocos2dx/plugin/AnalyticsUmeng.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/umeng/proj.ios/AnalyticsUmeng.m" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/umeng/proj.ios/AnalyticsUmeng.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/AndroidManifest.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/AndroidManifest.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/jni/Application.mk" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/jni/Application.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/Base64.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/Base64.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/BaseHelper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/BaseHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/cocos/platform/CCImage.h" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/CCImage.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/FacebookAgent.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/FacebookAgent.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/FacebookAgent.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/FacebookAgent.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/src/org/cocos2dx/plugin/FacebookWrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/src/org/cocos2dx/plugin/FacebookWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/IAPAlipay.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/IAPAlipay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/googleplay/proj.android/src/org/cocos2dx/plugin/IAPGooglePlay.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/googleplay/proj.android/src/org/cocos2dx/plugin/IAPGooglePlay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/IAPNd91.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/IAPNd91.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/IAPOnlineNd91.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/IAPOnlineNd91.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/src/org/cocos2dx/plugin/IAPOnlineQH360.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/src/org/cocos2dx/plugin/IAPOnlineQH360.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/uc/proj.android/src/org/cocos2dx/plugin/IAPOnlineUC.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/uc/proj.android/src/org/cocos2dx/plugin/IAPOnlineUC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/IAPWrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/IAPWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceAds.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceAds.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceAds.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceAds.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceAnalytics.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceAnalytics.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceAnalytics.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceAnalytics.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceIAP.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceIAP.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceIAP.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceIAP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceShare.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceShare.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceShare.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceShare.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceSocial.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceSocial.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceSocial.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceSocial.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceUser.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/InterfaceUser.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceUser.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/InterfaceUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/MobileSecurePayHelper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/MobileSecurePayHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/MobileSecurePayer.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/MobileSecurePayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/Nd91Wrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/Nd91Wrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/NetworkManager.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/NetworkManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/googleplay/proj.android/Notes.txt" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/googleplay/proj.android/Notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/Part.cpp" afterPath="$PROJECT_DIR$/Classes/Part.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/Part.h" afterPath="$PROJECT_DIR$/Classes/Part.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/PartnerConfig.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/PartnerConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/platform/Platform.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/platform/Platform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/platform/Platform.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/platform/Platform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginFactory.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginFactory.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/PluginFactory.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/PluginFactory.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginFactory.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginFactory.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginJavaData.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginJavaData.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginJniMacros.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginJniMacros.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/PluginManager.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/PluginManager.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/PluginManager.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/PluginManager.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginOCMacros.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginOCMacros.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/PluginParam.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/PluginParam.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/PluginParam.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/PluginParam.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginProtocol.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginProtocol.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/PluginProtocol.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/PluginProtocol.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginProtocol.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginProtocol.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginUtils.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginUtils.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginUtils.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/PluginUtils.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginUtilsIOS.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginUtilsIOS.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginUtilsIOS.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/PluginUtilsIOS.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/PluginWrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/PluginWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolAds.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolAds.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/ProtocolAds.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/ProtocolAds.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolAds.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolAds.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolAnalytics.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolAnalytics.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/ProtocolAnalytics.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/ProtocolAnalytics.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolAnalytics.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolAnalytics.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolIAP.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolIAP.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/ProtocolIAP.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/ProtocolIAP.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolIAP.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolIAP.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolShare.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolShare.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolShare.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolShare.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolSocial.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolSocial.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolSocial.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolSocial.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolUser.cpp" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/android/ProtocolUser.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/ProtocolUser.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/include/ProtocolUser.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolUser.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ProtocolUser.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/bin/Puzzle.ap_.d" afterPath="$PROJECT_DIR$/proj.android/bin/Puzzle.ap_.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/src/org/cocos2dx/plugin/QH360Wrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/src/org/cocos2dx/plugin/QH360Wrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/ResultChecker.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/ResultChecker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/Rsa.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/alipay/proj.android/src/org/cocos2dx/plugin/Rsa.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/Scene.cpp" afterPath="$PROJECT_DIR$/Classes/Scene.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/Scene.h" afterPath="$PROJECT_DIR$/Classes/Scene.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLSLANG/ShaderLang.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLSLANG/ShaderLang.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLSLANG/ShaderLang.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLSLANG/ShaderLang.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLSLANG/ShaderVars.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLSLANG/ShaderVars.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLSLANG/ShaderVars.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLSLANG/ShaderVars.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/src/org/cocos2dx/plugin/ShareFacebook.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/src/org/cocos2dx/plugin/ShareFacebook.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/twitter/proj.android/src/org/cocos2dx/plugin/ShareTwitter.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/twitter/proj.android/src/org/cocos2dx/plugin/ShareTwitter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/weibo/proj.android/src/org/cocos2dx/plugin/ShareWeibo.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/weibo/proj.android/src/org/cocos2dx/plugin/ShareWeibo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ShareWrapper.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ShareWrapper.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/ShareWrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/ShareWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ShareWrapper.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/ShareWrapper.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/weibo/proj.ios/SinaWeibo/SinaWeibo.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/weibo/proj.ios/SinaWeibo/SinaWeibo.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/weibo/proj.ios/SinaWeibo/SinaWeibo.m" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/weibo/proj.ios/SinaWeibo/SinaWeibo.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/weibo/proj.ios/SinaWeibo/SinaWeiboRequest.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/weibo/proj.ios/SinaWeibo/SinaWeiboRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/SocialNd91.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/SocialNd91.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/SocialWrapper.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/SocialWrapper.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/SocialWrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/SocialWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/SocialWrapper.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/SocialWrapper.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/twitter/proj.android/src/org/cocos2dx/plugin/TwitterSession.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/twitter/proj.android/src/org/cocos2dx/plugin/TwitterSession.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/uc/proj.android/src/org/cocos2dx/plugin/UCWrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/uc/proj.android/src/org/cocos2dx/plugin/UCWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/src/org/cocos2dx/plugin/UserFacebook.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/src/org/cocos2dx/plugin/UserFacebook.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/UserNd91.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/src/org/cocos2dx/plugin/UserNd91.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/src/org/cocos2dx/plugin/UserQH360.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/src/org/cocos2dx/plugin/UserQH360.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/uc/proj.android/src/org/cocos2dx/plugin/UserUC.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/uc/proj.android/src/org/cocos2dx/plugin/UserUC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/UserWrapper.h" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/UserWrapper.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/UserWrapper.java" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/proj.android/src/org/cocos2dx/plugin/UserWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/UserWrapper.mm" afterPath="$PROJECT_DIR$/cocos2d/plugin/protocols/platform/ios/UserWrapper.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/angle_gl.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/angle_gl.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/angle_gl.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/angle_gl.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/angle_windowsstore.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/angle_windowsstore.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/angle_windowsstore.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/angle_windowsstore.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/attrs.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/attrs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj.android/bin/build.prop" afterPath="$PROJECT_DIR$/proj.android/bin/build.prop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/build.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/colors.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_button_blue.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_button_blue.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_button_check.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_button_check.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_friendpickerfragment.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_friendpickerfragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_login_activity_layout.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_login_activity_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_loginbutton_silver.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_loginbutton_silver.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_activity_circle_row.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_activity_circle_row.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_checkbox.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_checkbox.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_image.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_image.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_picker_item_background.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_picker_item_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_list_row.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_list_row.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_list_section_header.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_list_section_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_picker_list_selector.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_picker_list_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_picker_list_selector_background_transition.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_picker_list_selector_background_transition.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_search_box.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_search_box.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_title_bar.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_title_bar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_title_bar_stub.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_picker_title_bar_stub.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_picker_top_button.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_picker_top_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_placepickerfragment.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_placepickerfragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_placepickerfragment_list_row.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_placepickerfragment_list_row.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_search_bar_layout.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_search_bar_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_tooltip_bubble.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_tooltip_bubble.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_top_background.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_top_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_top_button.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_top_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_usersettingsfragment.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/layout/com_facebook_usersettingsfragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-hdpi/dimens.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-hdpi/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-ldpi/dimens.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-ldpi/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-mdpi/dimens.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-mdpi/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-xhdpi/dimens.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-xhdpi/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/drawables.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/drawables.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/EGL/egl.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/EGL/egl.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/EGL/egl.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/EGL/egl.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/EGL/eglext.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/EGL/eglext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/EGL/eglext.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/EGL/eglext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/EGL/eglplatform.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/EGL/eglplatform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/EGL/eglplatform.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/EGL/eglplatform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/export.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/export.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/export.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/export.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/websockets/include/win32/win32helpers/getopt.h" afterPath="$PROJECT_DIR$/cocos2d/external/websockets/include/win32/win32helpers/getopt.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/websockets/include/winrt_8.1/win32helpers/getopt.h" afterPath="$PROJECT_DIR$/cocos2d/external/websockets/include/winrt_8.1/win32helpers/getopt.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/websockets/include/wp8/win32helpers/getopt.h" afterPath="$PROJECT_DIR$/cocos2d/external/websockets/include/wp8/win32helpers/getopt.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/websockets/include/wp_8.1/win32helpers/getopt.h" afterPath="$PROJECT_DIR$/cocos2d/external/websockets/include/wp_8.1/win32helpers/getopt.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES2/gl2.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES2/gl2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES2/gl2.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES2/gl2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES2/gl2ext.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES2/gl2ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES2/gl2ext.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES2/gl2ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES2/gl2platform.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES2/gl2platform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES2/gl2platform.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES2/gl2platform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES3/gl3.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES3/gl3.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES3/gl3.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES3/gl3.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES3/gl3ext.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES3/gl3ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES3/gl3ext.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES3/gl3ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES3/gl3platform.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/GLES3/gl3platform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES3/gl3platform.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/GLES3/gl3platform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/KHR/khrplatform.h" afterPath="$PROJECT_DIR$/cocos2d/external/winrt_8.1-specific/angle/include/KHR/khrplatform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/KHR/khrplatform.h" afterPath="$PROJECT_DIR$/cocos2d/external/wp_8.1-specific/angle/include/KHR/khrplatform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/websockets/include/winrt_8.1/lws_config.h" afterPath="$PROJECT_DIR$/cocos2d/external/websockets/include/winrt_8.1/lws_config.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/websockets/include/wp8/lws_config.h" afterPath="$PROJECT_DIR$/cocos2d/external/websockets/include/wp8/lws_config.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/external/websockets/include/wp_8.1/lws_config.h" afterPath="$PROJECT_DIR$/cocos2d/external/websockets/include/wp_8.1/lws_config.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_bind_bind.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_bind_bind.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_bind_register.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_bind_register.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_login.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_login_item.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_login_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_login_land.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_login_land.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_login_portrait.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_login_portrait.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_oauth_bind.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_oauth_bind.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_official.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_official.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_official_landscape.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_official_landscape.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_official_portrait.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_official_portrait.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_other_login.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_other_login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_register.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_register.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_register_agreement.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_register_agreement.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_register_phone.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_register_phone.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_register_quick.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_register_quick.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_secret_find.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_secret_find.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_secret_set.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_secret_set.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_sina.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_account_sina.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_background_xml.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_background_xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_02.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_02.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_action.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_action.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_logout.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_logout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_old.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_old.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_x.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_button_x.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_checkbox_button.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_checkbox_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_control_center.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_control_center.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_friend_del_button.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_friend_del_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_friend_home.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_friend_home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_home_personal.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_home_personal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_input_gray.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_input_gray.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_invite_friend.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_invite_friend.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_message_item_1_bg.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_message_item_1_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_message_item_2_bg.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_message_item_2_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_account.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_account.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_bean_recharge.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_bean_recharge.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_consume_detail.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_consume_detail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_consumes.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_consumes.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_info.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_more.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_more.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_no_password.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_no_password.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_password.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_password.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_permission.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_permission.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_recharge_detail.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_recharge_detail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_recharges.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_recharges.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_records.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_more_records.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_pay_checkbox_button.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_pay_checkbox_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_pay_pass.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_pay_pass.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_pay_password_check.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_pay_password_check.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_pay_products_item.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_pay_products_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_pay_template.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_pay_template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_progressbar.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_progressbar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_rank_choice_left_btn_bg.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_rank_choice_left_btn_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_rank_choice_middle_btn_bg.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_rank_choice_middle_btn_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_rank_choice_right_btn_bg.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_rank_choice_right_btn_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_regist_checked.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_regist_checked.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_square_checkbox_button.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_square_checkbox_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_stranger_home.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_stranger_home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_title_bar.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_title_bar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_title_bar_action_btn_xml.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_title_bar_action_btn_xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_title_bar_return_btn_xml.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_title_bar_return_btn_xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_user_item_bg.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd3_user_item_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_version_update.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd3_version_update.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_account_list_item.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_account_list_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_account_manage.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_account_manage.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_lottery.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_lottery.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_number.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_number.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_number_result.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_number_result.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_number_tip.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_number_tip.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_number_unactivity_tip.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_bind_phone_number_unactivity_tip.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_blue.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_blue.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_button_action_add.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_button_action_add.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_button_action_buy.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_button_action_buy.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_button_action_reduce.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_button_action_reduce.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_c_blur.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_c_blur.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_download.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_download.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_faq.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_faq.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_faq_list.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_faq_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_menu.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_menu_item.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_menu_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_my_fb_item.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_my_fb_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_my_fb_list.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_my_fb_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_pj_landscape.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_pj_landscape.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_pj_portrait.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_pj_portrait.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_reply.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_reply.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_reply_bottom.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_reply_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_reply_item_left.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_reply_item_left.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_reply_item_right.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_feedback_reply_item_right.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_find_password.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_find_password.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/values/nd_gcsdk_colors.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/values/nd_gcsdk_colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_custom_toast.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_custom_toast.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_exitpage.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_exitpage.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/values/nd_gcsdk_misc.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/values/nd_gcsdk_misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_pausepage.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_pausepage.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_project_view_type_1.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_project_view_type_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_project_view_type_2.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_project_view_type_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_project_view_type_3.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_gcsdk_project_view_type_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/values/nd_gcsdk_strings.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/values/nd_gcsdk_strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/values/nd_gcsdk_styles.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/values/nd_gcsdk_styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_green.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_green.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_leaderboard_left_btn_bg.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_leaderboard_left_btn_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_leaderboard_right_btn_bg.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_leaderboard_right_btn_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_login_btn_land_selector.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_login_btn_land_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_login_btn_portrait_selector.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_login_btn_portrait_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_register_btn_portrait_selector.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_register_btn_portrait_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_set_password.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_set_password.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_slider_handle_h.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_slider_handle_h.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_slider_handle_h_expand.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_slider_handle_h_expand.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_slider_handle_v.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_slider_handle_v.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_slider_handle_v_expand.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_slider_handle_v_expand.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_flipitem.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_flipitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_listitem.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_slider_h.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_slider_h.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_slider_item.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_slider_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_slider_v.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softpromotion_slider_v.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softwarepromotion.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_softwarepromotion.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_unbind_phone_number.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/layout/nd_unbind_phone_number.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_white_btn.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/nd91/proj.android/DependProject/res/drawable/nd_white_btn.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/proguard-project.txt" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/proguard-project.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/project.properties" afterPath="$PROJECT_DIR$/cocos2d/cocos/platform/android/java/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/strings.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-es/strings.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-es/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-he/strings.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-he/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-iw/strings.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values-iw/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/styles.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/facebook/proj.android/DependProject/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_auth_bind_card.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_auth_bind_card.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_bindcard_credit.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_bindcard_credit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_bindcard_debit.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_bindcard_debit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_bindcard_result.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_bindcard_result.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn1.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn2.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn3.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn4.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn5.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn6.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn6.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_card.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_card.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_enter1.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_enter1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_enter2.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_enter2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_esc1.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_esc1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_esc2.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_esc2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_letter.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_letter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_member1.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_member1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_member2.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_member2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_month.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_month.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_newweb.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_newweb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_number.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_number.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_set.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_set.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_symbol.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_symbol.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_title_esc.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_title_esc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_year.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_btn_year.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_cardlist_content.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_cardlist_content.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_checkbox.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_checkbox.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForAssets/upomp_bypay_config.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForAssets/upomp_bypay_config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_get_pass.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_get_pass.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_input_btn2.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_input_btn2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_input_btn4.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_input_btn4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_keyboard_btn_clear.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_keyboard_btn_clear.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_keyboard_btn_enter.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_keyboard_btn_enter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_keyboard_btn_l_clear.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_keyboard_btn_l_clear.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_keyboard_dialog.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_keyboard_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_keyboard_letter.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_keyboard_letter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_keyboard_num.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_keyboard_num.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_keyboard_symbol.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_keyboard_symbol.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_cardmanage.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_cardmanage.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_change_psw.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_change_psw.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_change_tel.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_change_tel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_tel.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_tel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_usermanage.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_onuser_usermanage.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_open_btn_enter.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_open_btn_enter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_pay_result.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_pay_result.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_pay_result_lose.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_pay_result_lose.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_progress.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_progress.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_progress_init.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/upomp_bypay_progress_init.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_register.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_register.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_register2.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_register2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_register_result.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_register_result.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_user_credit.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_user_credit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_user_debit.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/upomp_bypay_user_debit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/values/upomp_styles.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/values/upomp_styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/zsht_authcode_style.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/zsht_authcode_style.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/zsht_back_style.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/zsht_back_style.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_bankcard_agreement.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_bankcard_agreement.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_bankcard_pay.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_bankcard_pay.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/zsht_button_style.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/drawable/zsht_button_style.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_griditems.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_griditems.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/anim/zsht_loading.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/anim/zsht_loading.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/values/zsht_strings.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/values/zsht_strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/values/zsht_styles.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/values/zsht_styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_success_page.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_success_page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_user_message.xml" afterPath="$PROJECT_DIR$/cocos2d/plugin/plugins/qh360/proj.android/ForRes/layout/zsht_user_message.xml" />
+    </list>
+    <ignored path="Puzzle.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Puzzle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Scene.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Scene.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#6724#6840#0" expanded="true" />
+                <element signature="e#6934#6942#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCSprite.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cocos2d/cocos/2d/CCSprite.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Part.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classes/Part.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65375304">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scene.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Scene.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+              <folding>
+                <element signature="e#63#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="const.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/const.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Part.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Part.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <folding>
+                <element signature="e#85#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Classes/const.h" />
+        <option value="$PROJECT_DIR$/Classes/responsivehelper.h" />
+        <option value="$PROJECT_DIR$/Classes/responsivehelper.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/cocos2d/cocos/platform/CCImage.h" />
+        <option value="$PROJECT_DIR$/Classes/Scene.h" />
+        <option value="$PROJECT_DIR$/Classes/Part.h" />
+        <option value="$PROJECT_DIR$/Classes/Scene.cpp" />
+        <option value="$PROJECT_DIR$/Classes/Part.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="31" />
+    <option name="y" value="-3" />
+    <option name="width" value="1335" />
+    <option name="height" value="771" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$1$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$1$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$1$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proj.android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$1$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proj.android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="armeabi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$1$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proj.android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$1$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Puzzle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IMPORTANT/Lab1" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.MyGame">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MyGame" TARGET_NAME="MyGame" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyGame" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MyGame" TARGET_NAME="MyGame" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MyGame" RUN_TARGET_NAME="MyGame">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyGame_CORE_PRE_BUILD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MyGame" TARGET_NAME="MyGame_CORE_PRE_BUILD" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyGame_PRE_BUILD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MyGame" TARGET_NAME="MyGame_PRE_BUILD" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cocos2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MyGame" TARGET_NAME="cocos2d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="flatbuffers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MyGame" TARGET_NAME="flatbuffers" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tinyxml2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MyGame" TARGET_NAME="tinyxml2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="unzip" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MyGame" TARGET_NAME="unzip" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="xxhash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MyGame" TARGET_NAME="xxhash" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyGame" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MyGame_CORE_PRE_BUILD" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyGame_PRE_BUILD" />
+      <item index="4" class="java.lang.String" itemvalue="Application.cocos2d" />
+      <item index="5" class="java.lang.String" itemvalue="Application.flatbuffers" />
+      <item index="6" class="java.lang.String" itemvalue="Application.tinyxml2" />
+      <item index="7" class="java.lang.String" itemvalue="Application.unzip" />
+      <item index="8" class="java.lang.String" itemvalue="Application.xxhash" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d4172dd-ba7c-4269-a349-84d298edb72b" name="Default" comment="" />
+      <created>1441816442429</created>
+      <option name="number" value="Default" />
+      <updated>1441816442429</updated>
+    </task>
+    <task id="LOCAL-00001" summary="premier">
+      <created>1442115488434</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1442115488434</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2">
+      <created>1442140512805</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1442140512805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="31" y="-3" width="1335" height="771" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33789954" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31811264" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39878234" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="premier" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/cocos2d/cocos/2d/CCActionInterval.cpp</url>
+          <line>524</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Classes/responsivehelper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Scene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#6724#6840#0" expanded="true" />
+            <element signature="e#6934#6942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Part.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Part.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="e#85#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Scene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#63#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/base/CCTouch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/2d/CCLayer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/const.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/responsivehelper.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/responsivehelper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Scene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#6724#6840#0" expanded="true" />
+            <element signature="e#6934#6942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Part.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Part.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#85#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Scene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#63#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/base/CCTouch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/2d/CCLayer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/const.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/responsivehelper.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/responsivehelper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Scene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#6724#6840#0" expanded="true" />
+            <element signature="e#6934#6942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Part.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Part.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="e#85#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Scene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="e#63#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/const.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/responsivehelper.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/responsivehelper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/base/CCTouch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/2d/CCLayer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="468" column="13" selection-start-line="468" selection-start-column="13" selection-end-line="468" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/responsivehelper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/AppDelegate.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/2d/CCActionInterval.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41888618">
+          <caret line="526" column="0" selection-start-line="526" selection-start-column="0" selection-end-line="526" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/base/CCEventListenerTouch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/2d/CCNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1302" column="9" selection-start-line="1302" selection-start-column="9" selection-end-line="1302" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/platform/CCImage.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/platform/CCPlatformMacros.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="233" column="0" selection-start-line="233" selection-start-column="0" selection-end-line="233" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/2d/CCLayer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="397" column="12" selection-start-line="397" selection-start-column="12" selection-end-line="397" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/responsivehelper.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/math/Vec2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/2d/CCNode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/cocos/2d/CCSprite.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Scene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#6724#6840#0" expanded="true" />
+            <element signature="e#6934#6942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Scene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding>
+            <element signature="e#63#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Part.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#85#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/const.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Part.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65375304">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
